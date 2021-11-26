@@ -1,0 +1,5 @@
+o001aa111|Camry|Black|790|82000
+o002aa111|Camry|Green|1330|0
+o003aa111|Camry|Black|750|82000
+o004aa111|LandCruser|Black|799|210000
+o005aa111|LandCruser|White|999|55000
